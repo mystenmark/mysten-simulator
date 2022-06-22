@@ -1,0 +1,3 @@
+[submodule "tokio"]
+	path = tokio
+	url = git@github.com:mystenmark/tokio-madsim-fork.git
