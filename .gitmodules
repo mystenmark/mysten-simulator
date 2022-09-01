@@ -1,6 +1,0 @@
-[submodule "tokio"]
-	path = tokio
-	url = https://github.com/mystenmark/tokio-madsim-fork.git
-[submodule "hyper-madsim-fork"]
-	path = hyper
-	url = https://github.com/mystenmark/hyper-madsim-fork.git
